@@ -1,1 +1,1 @@
-# M2_atmg328_Sun-Tracking-Solar-Panel
+# M2_atmega328_Sun-Tracking-Solar-Panel

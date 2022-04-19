@@ -4,3 +4,5 @@
 # In Action
 # OFF MODE
 ![Off Mode](https://user-images.githubusercontent.com/101312396/163956504-030e8420-e21f-402c-a637-37cc84c9f6ae.png)
+# ON MODE
+![On Mode ](https://user-images.githubusercontent.com/101312396/163957587-69a16ac8-6ad0-4f1b-ab97-81667dc7744f.png)

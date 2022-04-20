@@ -20,21 +20,17 @@
 #define LDR1_POS (180)  /**< LDR1 Rotate Position */
 #define LDR2_POS (0)   /**< LDR2 Rotate position */
 
-/**
- * Include files
- */ 
-#include <avr/io.h>
 
 /**
  * Function Definitions
  */
 
 /**
- * @brief Change the state of the LED Pin according to the value of state
+ * @brief servo motor start
  * 
- * @param state Pin level to which the LED Pin should be set
+ * @param state Pin level to which the servo motor should be set
  */
-void change_led_state(uint8_t state);
+void setup();
 
 
-#endif /** __BLINKY_H_ */
+#endif /**_PROJECT_MAIN_H_*/

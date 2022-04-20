@@ -16,6 +16,7 @@ This is only possible if the panels are always pointing in the direction of the 
 * The sun is ahead at noon, and the intensity of light on both panels is the same. 
 * In such circumstances, the panel remains stationary and does not rotate.
 # CATEGORY
+1.Monocrystalline (or single-crystalline) solar panels and polycrystalline (or multi-crystalline) solar panels are the two basic types of solar panels. 2.Monocrystalline solar panels, also known as single-crystalline panels, are the most advanced type of solar panels.
 # COMPONENTS AND SUPPLIES
 * Solar panel
 * ATmega328 Micro Controller

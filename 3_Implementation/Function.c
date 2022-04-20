@@ -11,7 +11,7 @@
 #include<stdio.h>
 /**
 * @breif  Rotating ldr1 & ldr2
-* @return state Pin level to which the ldr1 & ldr2 should be set
+* @return state Pin level to which the servo motor should be set
 */
 void setup() 
 {

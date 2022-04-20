@@ -11,6 +11,7 @@
 #include<stdio.h>
 /**
 * @brief servo motor start
+*
 * @return state Pin level to which the servo motor should be set
 */
 void setup() 
@@ -20,8 +21,9 @@ void setup()
   myservo.write(pos);   
 }
 /**
-* @brief Rotating ldr1 & ldr2 
-
+* @brief Rotating ldr1 & ldr2
+*
+* @return state Pin level to which the ldr1 & ldr2 should be set
 */
 void loop() 
 {

@@ -20,8 +20,8 @@ void setup()
   myservo.write(pos);   
 }
 /**
-* @breif 
-* @return
+* @brief Rotating ldr1 & ldr2 
+
 */
 void loop() 
 {

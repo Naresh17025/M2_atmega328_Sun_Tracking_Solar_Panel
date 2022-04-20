@@ -10,8 +10,8 @@
  */
 #include<stdio.h>
 /**
-* @breif
-* @return
+* @breif  Rotating ldr1 & ldr2
+* @return 
 */
 void setup() 
 {

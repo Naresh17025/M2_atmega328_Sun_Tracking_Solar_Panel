@@ -9,6 +9,10 @@
  * 
  */
 #include<stdio.h>
+/**
+* @breif
+* @return
+*/
 void setup() 
 {
   myservo.attach(11); 

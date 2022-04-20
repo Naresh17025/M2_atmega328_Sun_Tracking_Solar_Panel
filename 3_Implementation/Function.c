@@ -1,3 +1,13 @@
+/**
+ * @file function.c
+ * @author NARESH D (naresh.d.2018.ece@ritchennai.edu.in)
+ * @brief Project to SUN TRACKING SOLAR PANEL
+ * @version 0.1
+ * @date 2022-04-20
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 void setup() 
 {

@@ -13,7 +13,8 @@ This is only possible if the panels are always pointing in the direction of the 
 * The panel is set up in such a way that the light from two LDRs is compared, and the panel is rotated towards the LDR with the highest intensity, i.e. the least resistance. 
 * The panel is rotated at a specific angle using a servo motor.
 * When the light intensity on the right LDR is higher, the panel slowly travels to the right, and when the light intensity on the left LDR is higher, the panel gently goes to the left. 
-* The sun is ahead at noon, and the intensity of light on both panels is the same. In such circumstances, the panel remains stationary and does not rotate.
+* The sun is ahead at noon, and the intensity of light on both panels is the same. 
+* In such circumstances, the panel remains stationary and does not rotate.
 
 
 

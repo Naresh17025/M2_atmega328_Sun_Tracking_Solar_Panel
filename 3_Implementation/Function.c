@@ -10,7 +10,7 @@
  */
 #include<stdio.h>
 /**
-* @breif  Rotating ldr1 & ldr2
+* @brief servo motor start
 * @return state Pin level to which the servo motor should be set
 */
 void setup() 

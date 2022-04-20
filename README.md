@@ -1,9 +1,10 @@
 # M2_atmega328_Sun-Tracking-Solar-Panel
-# Code Quality ![Code Quality Score](https://api.codiga.io/project/32864/score/svg)
-# Code Grade  ![Code Grade](https://api.codiga.io/project/32864/status/svg)
-# Codacy 
+## BADGES
+ Code Quality ![Code Quality Score](https://api.codiga.io/project/32864/score/svg)
+ Code Grade  ![Code Grade](https://api.codiga.io/project/32864/status/svg)
+ Codacy 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8431e03f9cb54b9cae4457677e1afd20)](https://www.codacy.com/gh/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel&amp;utm_campaign=Badge_Grade)
-# Cppcheck Analysis 
+ Cppcheck Analysis 
 [![Cppcheck Analysis](https://github.com/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/actions/workflows/cppcheck_Analyse.yml/badge.svg)](https://github.com/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/actions/workflows/cppcheck_Analyse.yml)
 # In Action
 # OFF MODE

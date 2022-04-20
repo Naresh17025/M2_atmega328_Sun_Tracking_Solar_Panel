@@ -17,8 +17,8 @@
 #define LDR_1 				/**< LDR State ldr1>ldr2  rotate right*/
 #define LDR_2				/**< LDR state ldr2>ldr1 rotate left*/
 
-#define LDR1_POS ()  /**< LED ON time in milli seconds  */
-#define LDR2_POS ()   /**< LED OFF time in milli seconds */
+#define LDR1_POS (180)  /**< LDR1 Rotate Position */
+#define LDR2_POS (0)   /**< LDR2 Rotate position */
 
 /**
  * Include files

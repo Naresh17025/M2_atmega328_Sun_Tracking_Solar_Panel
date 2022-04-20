@@ -17,3 +17,8 @@ int val1;
 int val2;   
 int pos=90;
 
+void main(){
+ void setup();
+ void loop();
+}
+ 

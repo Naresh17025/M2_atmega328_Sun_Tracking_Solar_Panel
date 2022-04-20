@@ -14,11 +14,11 @@
 /**
  * Macro Definitions
  */
-#define LDR_1 				/**< LDR State ldr1>ldr2 */
-#define LDR_2				/**< LED state LOW */
+#define LDR_1 				/**< LDR State ldr1>ldr2  rotate right*/
+#define LDR_2				/**< LDR state ldr2>ldr1 rotate left*/
 
-#define LED_ON_TIME     (1000)  /**< LED ON time in milli seconds  */
-#define LED_OFF_TIME    (500)   /**< LED OFF time in milli seconds */
+#define LDR1_POS ()  /**< LED ON time in milli seconds  */
+#define LDR2_POS ()   /**< LED OFF time in milli seconds */
 
 /**
  * Include files

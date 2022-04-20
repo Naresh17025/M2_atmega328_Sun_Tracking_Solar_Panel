@@ -11,7 +11,7 @@
 #include<stdio.h>
 /**
 * @breif  Rotating ldr1 & ldr2
-* @return 
+* @return state Pin level to which the ldr1 & ldr2 should be set
 */
 void setup() 
 {
@@ -19,6 +19,10 @@ void setup()
   Serial.begin(9600);
   myservo.write(pos);   
 }
+/**
+* @breif 
+* @return
+*/
 void loop() 
 {
   val1 = analogRead(ldr1);            

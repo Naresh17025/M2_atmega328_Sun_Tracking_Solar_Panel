@@ -54,3 +54,10 @@ You may store the energy created by the solar cells by attaching a battery to th
 * Even while solar energy may be used to its full potential, it may cause complications during the wet season.
 * Although solar energy may be stored in batteries, they are heavy, take up more room, and must be replaced on a regular basis.
 * They're not cheap.
+## SWOT ANALYSIS
+# STRENGTH
+* Low Maintenance
+* Much Avaliable Space For Putting Up PhotoVoltaics
+* Renewable Energy Resources
+* Rich Solar Resources
+# WEAKNESSES

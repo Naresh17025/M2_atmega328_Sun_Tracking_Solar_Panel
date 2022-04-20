@@ -28,9 +28,15 @@
 /**
  * @brief servo motor start
  * 
- * @param state Pin level to which the servo motor should be set
+ * @return state Pin level to which the servo motor should be set
  */
 void setup();
-
+/**
+ * @brief Rotating ldr1 & ldr2 
+ * 
+ * @return state Pin level to which the ldr1 & ldr2 should be set
+ */
+void loop();
 
 #endif /**_PROJECT_MAIN_H_*/
+

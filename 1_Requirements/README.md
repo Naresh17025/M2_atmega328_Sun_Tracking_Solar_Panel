@@ -61,3 +61,13 @@ You may store the energy created by the solar cells by attaching a battery to th
 * Renewable Energy Resources
 * Rich Solar Resources
 # WEAKNESSES
+* Small Scale Of Renewable Energy Of Economy
+* Produces Direct Current
+* Expensive
+# OPPORTUNITIES
+* Great Long Term Potential
+* Increase Worldwide Awareness Of Climatic Change
+* Increasing Gap Between Energy Supply And Demand
+# THREATS
+* Discontiunity of Energy Policies
+* Dominnt Position Of The Fossil Fuels

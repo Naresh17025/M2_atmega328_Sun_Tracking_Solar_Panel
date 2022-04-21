@@ -7,7 +7,7 @@
 * Cppcheck Analysis 
 [![Cppcheck Analysis](https://github.com/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/actions/workflows/cppcheck_Analyse.yml/badge.svg)](https://github.com/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/actions/workflows/cppcheck_Analyse.yml)
 * Build on Linux
-[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)
+[![Compile-Linux](https://github.com/Naresh17025/atmg328_Sun-Tracking-Solar-Panel/actions/workflows/Compile.yml/badge.svg)](https://github.com/Naresh17025/atmg328_Sun-Tracking-Solar-Panel/actions/workflows/Compile.yml)
 # In Action
 # OFF MODE
 ![Off Mode](https://user-images.githubusercontent.com/101312396/163956504-030e8420-e21f-402c-a637-37cc84c9f6ae.png)

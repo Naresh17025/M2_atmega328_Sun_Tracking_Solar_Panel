@@ -1,7 +1,7 @@
 /**
  * @file function.c
  * @author NARESH D (naresh.d.2018.ece@ritchennai.edu.in)
- * @brief Project to SUN TRACKING SOLAR PANEL
+ * @brief Project to SUN TRACKING SOLAR PANEL are connected to AVR328 MCU GPIO pin
  * @version 0.1
  * @date 2022-04-20
  * 

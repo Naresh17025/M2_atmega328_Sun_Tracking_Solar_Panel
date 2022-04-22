@@ -91,3 +91,7 @@ You may store the energy created by the solar cells by attaching a battery to th
 ![BLOCK DIAGRAM](https://github.com/Naresh17025/M2_atmega328_Sun_Tracking_Solar_Panel/blob/main/2_Architecture/Block%20diagram.drawio.png)
 # Data Flow Transistion
 ![Data Flow Diagram](https://github.com/Naresh17025/M2_atmega328_Sun_Tracking_Solar_Panel/blob/main/2_Architecture/Data%20Flow%20Transistion.drawio.png)
+# SCHEMATIC DIAGRAM
+![schematic diagram](https://user-images.githubusercontent.com/101312396/164612420-d0954bc9-9fd1-4016-8e87-00b9203e9ee4.png)
+# OUTPUT
+

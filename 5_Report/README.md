@@ -94,4 +94,10 @@ You may store the energy created by the solar cells by attaching a battery to th
 # SCHEMATIC DIAGRAM
 ![schematic diagram](https://user-images.githubusercontent.com/101312396/164612420-d0954bc9-9fd1-4016-8e87-00b9203e9ee4.png)
 # OUTPUT
+* OFF MODE
+![Off Mode](https://user-images.githubusercontent.com/101312396/164612544-157131be-3b00-4218-804d-3e30c103b0a1.png)
+# ON MODE
+![On Mode ](https://user-images.githubusercontent.com/101312396/164612575-ef4453a7-5f5d-45a1-98f4-212815289286.png)
+
+
 

@@ -50,6 +50,17 @@ You may store the energy created by the solar cells by attaching a battery to th
 * From the perspective of a lender, financing monitoring initiatives is a more sophisticated and high-risk investment.
 * Solar trackers are only suitable for warmer regions and are not suitable for snowy conditions. In comparison, fixed systems are more weather resistant than   tracking systems.
 * Fixed tracking systems can support up to 20% slopes in the E/W direction and are field compatible. In the N/S direction, tracking systems typically bear less slope accommodation, usually approximately 10%.
+# HIGH LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1 | LDR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
+| HL2 | SERVO MOTOR INTERFACING | IMPLEMENTED |
+# LOW LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1-LL1 | ABLE TO DETECT THE INTENSITY OF LIGHT WITH LDR | IMPLEMENTED |
+| HL1-LL2 | LDR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
+| HL2-LL1 |
 # LIMITATIONS OF SUN TRACKING SOLAR PANEL CIRCUIT
 * Even while solar energy may be used to its full potential, it may cause complications during the wet season.
 * Although solar energy may be stored in batteries, they are heavy, take up more room, and must be replaced on a regular basis.

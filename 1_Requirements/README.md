@@ -61,7 +61,7 @@ You may store the energy created by the solar cells by attaching a battery to th
 | HL1-LL1 | ABLE TO DETECT THE INTENSITY OF LIGHT WITH LDR | IMPLEMENTED |
 | HL1-LL2 | LDR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
 | HL2-LL1 | LDR1>LDR2 ITS ROTATE RIGHT & LDR2>LDR1 ITS ROTATE LEFT | IMPLEMENTED |
-| HL2-LL2 | 
+| HL2-LL2 | SERVO MOTOR ROTATES THE PANNEL POSITION | IMPLEMENTED |
 # LIMITATIONS OF SUN TRACKING SOLAR PANEL CIRCUIT
 * Even while solar energy may be used to its full potential, it may cause complications during the wet season.
 * Although solar energy may be stored in batteries, they are heavy, take up more room, and must be replaced on a regular basis.

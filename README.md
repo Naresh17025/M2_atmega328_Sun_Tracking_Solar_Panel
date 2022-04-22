@@ -6,8 +6,6 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8431e03f9cb54b9cae4457677e1afd20)](https://www.codacy.com/gh/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel&amp;utm_campaign=Badge_Grade)
 * Cppcheck Analysis 
 [![Cppcheck Analysis](https://github.com/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/actions/workflows/cppcheck_Analyse.yml/badge.svg)](https://github.com/Naresh17025/M2_atmg328_Sun-Tracking-Solar-Panel/actions/workflows/cppcheck_Analyse.yml)
-* Build on Linux
-[![Compile-Linux](https://github.com/Naresh17025/atmg328_Sun-Tracking-Solar-Panel/actions/workflows/Compile.yml/badge.svg)](https://github.com/Naresh17025/atmg328_Sun-Tracking-Solar-Panel/actions/workflows/Compile.yml)
 # Based on Linux
 [![Build-Linux](https://github.com/Naresh17025/M2_atmega328_Sun_Tracking_Solar_Panel/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/Naresh17025/M2_atmega328_Sun_Tracking_Solar_Panel/actions/workflows/Build%20on%20Linux.yml)
 # In Action

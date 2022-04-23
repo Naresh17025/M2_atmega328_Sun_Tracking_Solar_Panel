@@ -43,3 +43,17 @@ You may store the energy created by the solar cells by attaching a battery to th
 | HL1-LL2 | LDR INTERFACING WITH ATMEGA328 | IMPLEMENTED |
 | HL2-LL1 | LDR1>LDR2 ITS ROTATE RIGHT & LDR2>LDR1 ITS ROTATE LEFT | IMPLEMENTED |
 | HL2-LL2 | SERVO MOTOR ROTATES THE PANNEL POSITION | IMPLEMENTED |
+# 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
+# WHO
+ * sun tracking solar panel is mostly used by many of the organisations all around.
+# WHAT
+* solar tracker, a system that positions an object at an angle relative to the Sun. The most-common applications for solar trackers are positioning photovoltaic (PV) panels (solar panels) so that they remain perpendicular to the Sun's rays and positioning space telescopes so that they can determine the Sun's direction.
+# WHEN
+* it can be used all the time.
+# WHERE
+* These panels can be used to power the traffic lights and streetlights.
+  These can be used in home to power the appliances using solar power.
+ These can be used in industries as more energy can be saved by rotating the panel.
+# HOW
+* PV solar trackers adjust the direction that a solar panel is facing according to the position of the Sun in the sky. By keeping the panel perpendicular to the Sun, more sunlight strikes the solar panel, less light is reflected, and more energy is absorbed. That energy can be converted into power.
+

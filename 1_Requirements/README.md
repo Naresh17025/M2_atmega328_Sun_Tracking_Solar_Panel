@@ -56,4 +56,20 @@ You may store the energy created by the solar cells by attaching a battery to th
  These can be used in industries as more energy can be saved by rotating the panel.
 # HOW
 * PV solar trackers adjust the direction that a solar panel is facing according to the position of the Sun in the sky. By keeping the panel perpendicular to the Sun, more sunlight strikes the solar panel, less light is reflected, and more energy is absorbed. That energy can be converted into power.
-
+## SWOT ANALYSIS
+# STRENGTH
+* Low Maintenance
+* Much Avaliable Space For Putting Up PhotoVoltaics
+* Renewable Energy Resources
+* Rich Solar Resources
+# WEAKNESSES
+* Small Scale Of Renewable Energy Of Economy
+* Produces Direct Current
+* Expensive
+# OPPORTUNITIES
+* Great Long Term Potential
+* Increase Worldwide Awareness Of Climatic Change
+* Increasing Gap Between Energy Supply And Demand
+# THREATS
+* Discontiunity of Energy Policies
+* Dominnt Position Of The Fossil Fuels

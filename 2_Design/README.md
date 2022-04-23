@@ -6,3 +6,5 @@
 ![BLOCK DIAGRAM](https://github.com/Naresh17025/M2_atmega328_Sun_Tracking_Solar_Panel/blob/main/2_Design/BLOCK%20DIAGRAM.drawio.png)
 # Data Flow Transistion
 ![Data Flow Diagram](https://github.com/Naresh17025/M2_atmega328_Sun_Tracking_Solar_Panel/blob/main/2_Design/Data%20Flow%20Transistion.drawio.png)
+# STATE TRANSITION DIAGRAM
+![TRANSITION DIAGRAM](https://github.com/Naresh17025/M2_atmega328_Sun_Tracking_Solar_Panel/blob/main/2_Design/State%20Transistion%20Diagram:.drawio.png)
